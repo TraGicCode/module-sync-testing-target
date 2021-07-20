@@ -11,5 +11,4 @@ My module has an awesome description
 
 ## My Array
 
-    - item1
-    - item2
+    - item3
