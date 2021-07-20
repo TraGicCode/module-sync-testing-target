@@ -1,1 +1,5 @@
-# module-sync-testing-target
+# My Module
+
+## single value in config_defaults
+
+My module has an awesome description
